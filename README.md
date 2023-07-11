@@ -1,4 +1,7 @@
-# Student_Admission_System
+## Student_Admission_System
+`Python` `Django` `MySQL` `Bootstrap` `JavaScript` `JQuery` `Ajax`
+
+
 A technological invention that makes it simple for educational institutions to handle the student enrollment
 process is the student admission management system. It enables admission staff to electronically finish the 
 application process, assign students to their courses, monitor shifts, respond to student queries, determine eligibility, 
