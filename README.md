@@ -1,5 +1,5 @@
 ## Student_Admission_System
-`PHP` `Django` `MySQL` `Bootstrap` `CSS` `JQuery` `HTML` 
+`PHP` `Django` `MySQL` `Bootstrap` `CSS` `JQuery` `HTML` `XAMPP` 
 
  
 A technological invention that makes it simple for educational institutions to handle the student enrollment
