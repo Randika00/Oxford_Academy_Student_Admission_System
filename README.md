@@ -11,7 +11,7 @@ for students via an effective student management system.A student-friendly form 
 simplify the admissions process for applicants. Application submitters can: Fill out the admission form whenever it's convenient via a 
 student portal, Pay the application cost after choosing a course.I took advantage of my knowledge about programming languages 
 like PHP, HTML5, CSS3, and development tools like Visual Studio Code, XAMPP, and Bootstrap to create this system. I have also provides 
-the ability to update and remove students's entered details through a user-friendly manner interface.
+the ability to update and remove students's entered details through a user-friendly manner interface. 
 
 
 
